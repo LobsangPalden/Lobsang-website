@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Monlam TBslim';
+    src: url('Font/MonlamTBslim.ttf') format('truetype');
+}
+
+h1 {
+    font-family: 'Monlam TBslim', sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #f4f4f9;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: #2c3e50;
+}
