@@ -48,5 +48,6 @@ nav img{
 .nav-links ul li a{
     color: #0e0d0d;
     text-decoration: none;
+    text-size-adjust: 15px;
     
 }
