@@ -1,14 +1,12 @@
 @font-face {
     font-family: 'Monlam TBslim';
     src: url('Font/MonlamTBslim.ttf') format('truetype');
+    font-family: "Noto Serif Tibetan", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
 
-.noto-serif-tibetan-<uniquifier> {
-  font-family: "Noto Serif Tibetan", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
 
 h1 {
     font-family: 'Monlam TBslim', sans-serif;
