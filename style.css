@@ -58,3 +58,11 @@ nav img{
 
     
 }
+.nav-links ul li ::after{
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: #f44336;
+    display: black;
+    margin: auto;
+}
